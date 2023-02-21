@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="230px" height="136px" viewBox="0 0 230 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group Copy 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="48.6703218%" y1="100%" x2="48.6703218%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0.03" offset="0%"></stop>
+            <stop stop-color="#FCFDFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="230" height="137"></rect>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#30835E" offset="0%"></stop>
+            <stop stop-color="#4BAB3C" offset="100%"></stop>
+        </linearGradient>
+        <path d="M131.574324,19 C184.457903,27.0330841 225,72.9444817 225,128.383685 C225,189.476035 175.741571,239 114.993644,239 C54.2493098,239 5,189.476035 5,128.383685 C5,126.382014 5.06521843,124.404524 5.17575814,122.443988 C5.76134225,122.456217 6.35134796,122.489569 6.95406573,122.489569 C27.0606863,122.489569 46.0906501,117.7561 62.9905137,109.380603 C60.8490831,115.308348 59.6687954,121.710802 59.6687954,128.383685 C59.6687954,159.10329 84.4534565,184.029669 114.993644,184.029669 C145.55815,184.029669 170.322638,159.10329 170.322638,128.383685 C170.322638,97.6440682 145.55815,72.7340868 114.993644,72.7340868 C112.282105,72.7340868 109.616163,72.9444817 107.019309,73.3274727 C119.134462,57.7062746 127.72395,39.2101423 131.574324,19 Z M39.7327159,84.8598726 L68.0573248,88.3491847 C50.9837686,98.9074482 32.2813729,104.211729 14.8089172,104.477707 L14.8089172,104.477707 L39.7327159,84.8598726 Z M31.5300529,58.2356688 L34.4267516,81.4330937 L10.6050955,100.273885 C13.2176752,85.7679479 20.4016253,71.1396068 31.5300529,58.2356688 Z M60.9700549,66.6433121 L89.0764331,69.9619572 C85.6135994,73.4622209 81.8204433,76.8053497 77.6905099,79.9371131 L76.7314671,80.656051 L47.0382166,77.1482655 L60.9700549,66.6433121 Z M51.1021873,38.6178344 L54.044586,63.4769627 L40.1638761,75.0509554 L37.2292994,50.2244438 C41.4234785,46.0728046 46.0486735,42.1771654 51.1021873,38.6178344 Z M84.5036407,48.4267516 L104.490446,51.1685306 C102.182409,55.6594323 99.4961355,60.0509593 96.4827288,64.2712079 L95.7815434,65.2420382 L69.4585987,61.6264463 L84.5036407,48.4267516 Z M75.5309653,26.0063694 L77.866242,44.717988 L62.5666749,56.8343949 L59.6496815,33.4550091 C64.8357902,30.5019373 70.1702015,28.0297805 75.5309653,26.0063694 Z M89.0764331,44.7986434 L112.898089,24.6050955 C111.679206,31.8001111 109.509571,39.0190353 106.407548,46.0656606 L105.978768,47.0254777 L89.0764331,44.7986434 L112.898089,24.6050955 Z M110.095541,19 L84.0663522,41.4203822 L82.0700637,23.9355635 C91.4813786,20.7722691 100.962837,19.1445489 110.095541,19 Z" id="path-5"></path>
+        <filter x="-10.2%" y="-10.2%" width="120.5%" height="120.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BDO-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BDO-|-Call" transform="translate(-525.000000, -822.000000)">
+            <g id="LOGIN" transform="translate(460.000000, 0.000000)">
+                <g id="MODAL" transform="translate(0.000000, 120.000000)">
+                    <g id="Blocks/Heros/LeafTitle-MOB" transform="translate(65.000000, 701.000000)">
+                        <g id="Group-Copy-31">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="SectionTitle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <g id="Donut-Leaf" mask="url(#mask-3)">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

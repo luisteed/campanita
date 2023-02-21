@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="168px" viewBox="0 0 320 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>GRAPH</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="300" height="138" rx="6"></rect>
+        <filter x="-7.5%" y="-16.3%" width="115.0%" height="132.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BDO-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BDO-Currency-MOB" transform="translate(-20.000000, -266.000000)">
+            <g id="CURRENCY" transform="translate(20.000000, 100.000000)">
+                <g id="GRAPH" transform="translate(10.000000, 181.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-15" transform="translate(17.000000, 0.500000)" stroke="#E6E6E6" stroke-linecap="square">
+                        <line x1="29" y1="137.5" x2="29" y2="0.5" id="Line-5-Copy"></line>
+                        <line x1="87" y1="137.5" x2="87" y2="0.5" id="Line-5-Copy-3"></line>
+                        <line x1="147" y1="137.5" x2="147" y2="0.5" id="Line-5-Copy-5"></line>
+                        <line x1="206" y1="137.5" x2="206" y2="0.5" id="Line-5-Copy-7"></line>
+                        <line x1="264" y1="137.5" x2="264" y2="0.5" id="Line-5-Copy-9"></line>
+                    </g>
+                    <polyline id="Path-2" stroke="#F2971F" stroke-width="3" points="0 46 26.25 55 52.4512987 62 78.3482143 83 106.594968 81 135.316558 92 162.297078 71 191.25 76 218.4375 90 246.5625 84 272.8125 90 300 108"></polyline>
+                    <text id="Oct-18" font-family="Avenir-Black, Avenir" font-size="11" font-weight="700" letter-spacing="-0.330000005" fill="#C2CCC7">
+                        <tspan x="10.699" y="125">OCT 18</tspan>
+                    </text>
+                    <text id="ABR-19" font-family="Avenir-Black, Avenir" font-size="11" font-weight="700" letter-spacing="-0.330000005" fill="#C2CCC7">
+                        <tspan x="133.293" y="125">ABR 19</tspan>
+                    </text>
+                    <text id="Oct-19" font-family="Avenir-Black, Avenir" font-size="11" font-weight="700" letter-spacing="-0.330000005" fill="#C2CCC7">
+                        <tspan x="257.699" y="125">OCT 19</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
